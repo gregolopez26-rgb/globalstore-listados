@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="o'clock stylish studio">
+  <circle cx="200" cy="200" r="200" fill="#D9482B"/>
+  <g fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round">
+    <circle cx="112" cy="206" r="34"/>
+    <path d="M112 206 l0 -18 M112 206 l13 8"/>
+    <path d="M104 166 h16 M112 166 v-10 M100 152 h24" stroke-width="6"/>
+    <path d="M54 190 h36 M40 204 h44 M50 218 h34 M62 232 h24" stroke-width="5" opacity="0.9"/>
+    <path d="M136 176 l10 -10" stroke-width="6"/>
+  </g>
+  <text x="152" y="228" fill="#fff" font-family="'Arial Rounded MT Bold','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="76" letter-spacing="-3">o'clock</text>
+  <text x="232" y="256" fill="#fff" font-family="'Helvetica Neue',Arial,sans-serif" font-style="italic" font-weight="700" font-size="18" letter-spacing="1">STYLISH STUDIO</text>
+</svg>

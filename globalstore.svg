@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 150" role="img" aria-label="Global Store">
+  <g fill="#5b4bf0">
+    <path d="M118 22 H70 L28 64 h42 L52 84 h48 l42 -42 H100 l18 -20z"/>
+    <circle cx="150" cy="86" r="7" fill="none" stroke="#5b4bf0" stroke-width="2"/>
+    <text x="150" y="89.5" text-anchor="middle" font-size="9" font-family="Arial, sans-serif">R</text>
+  </g>
+  <text x="180" y="72" fill="#fdfdfe" font-family="Michroma, 'Orbitron', 'Arial Black', sans-serif" font-size="46" letter-spacing="4">GLOBAL</text>
+  <text x="180" y="128" fill="#fdfdfe" font-family="Michroma, 'Orbitron', 'Arial Black', sans-serif" font-size="46" letter-spacing="4">STORE</text>
+</svg>

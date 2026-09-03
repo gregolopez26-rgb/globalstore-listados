@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs><radialGradient id="g" cx="20%" cy="15%" r="70%"><stop offset="0" stop-color="#5b4bf0" stop-opacity="0.45"/><stop offset="1" stop-color="#0b0b0f" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1200" height="630" fill="#0b0b0f"/><rect width="1200" height="630" fill="url(#g)"/>
+  <g transform="translate(280 205) scale(1)">
+    <g fill="#5b4bf0"><path d="M118 22 H70 L28 64 h42 L52 84 h48 l42 -42 H100 l18 -20z"/></g>
+    <text x="180" y="72" fill="#fdfdfe" font-family="Michroma, Orbitron, 'Arial Black', sans-serif" font-size="46" letter-spacing="4">GLOBAL</text>
+    <text x="180" y="128" fill="#fdfdfe" font-family="Michroma, Orbitron, 'Arial Black', sans-serif" font-size="46" letter-spacing="4">STORE</text>
+  </g>
+  <text x="600" y="430" text-anchor="middle" fill="#afb1c9" font-family="Helvetica, Arial, sans-serif" font-size="30">Perfumes importados · lista actualizada al instante</text>
+</svg>
